@@ -1,0 +1,5 @@
+1. [Official Documentation](https://cloud.google.com/docs/)
+2. [Official Courses create by Google Cloud](https://www.coursera.org/googlecloud)
+3. [Data Engineer on Google Cloud](https://www.coursera.org/specializations/gcp-data-machine-learning)
+4. [Learn by Doing](https://www.katacoda.com/learn)
+5. [Cloud and Linux Courses](https://linuxacademy.com/)
