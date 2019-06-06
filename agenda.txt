@@ -1,0 +1,38 @@
+## Compute engine
+1. Setup scripts
+2. VM image
+3. Packer?
+
+## Container Engine
+1. build image
+2. login to google 
+3. push image
+4. create vm with docker installed
+5. pull image 
+6. run image
+7. setup cloud build
+8. update source code
+9. view build
+10. restart image
+
+## Kubernetes
+1. show scaling
+2. show autoscaling config
+3. change some code
+4. create pull request
+
+## Bigquery
+1. show how to upload data
+  * streaming
+  * logging
+2. query data
+3. show data in reports
+
+## Pubsub
+1. Create bucket
+2. Create notification
+3. Create subscriber
+4. Upload file
+
+Cloud AI:
+1. run Fyodor's example
