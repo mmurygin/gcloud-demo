@@ -1,6 +1,5 @@
 FROM python:2.7
 
-ENV FLASK_APP=app.py
 EXPOSE 5000
 
 RUN mkdir -p /opt/app
