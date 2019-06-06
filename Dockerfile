@@ -10,5 +10,5 @@ RUN pip install -r requirements.txt
 
 COPY . /opt/app
 
-CMD ["flask", "run", "--host=0.0.0.0"]
+CMD ["python", "app.py"]
 
