@@ -9,4 +9,3 @@ gcloud compute instances create container-demo --machine-type=n1-standard-1 --ta
 gcloud compute ssh container-demo
 docker run -d -p 80:5000 gcr.io/$(gcloud config get-value project)/gcloud-demo:v2
 
-curl container-demo

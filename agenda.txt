@@ -10,11 +10,14 @@
 9. view build
 10. restart image
 
-## Kubernetes
-1. show scaling
-2. show autoscaling config
-3. change some code
-4. create pull request
+## Production demo
+1. Update source code and create pull request
+2. show tests
+3. deploy
+
+Kubernetes AI
+1. create cluster
+2. Go through script
 
 ## Bigquery
 1. show how to upload data
@@ -29,5 +32,3 @@
 3. Create subscriber
 4. Upload file
 
-Cloud AI:
-1. run Fyodor's example
